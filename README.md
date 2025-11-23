@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
 Private Kontaktseite von Hendrik Sünkler.
 
 E-Mail: <mailto:hendrik@h12r.de>
